@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://i.pinimg.com/474x/33/5a/cc/335accfd6b3fc9407d0a5aa06403bd12.jpg",
+        "carName": "Mercedes-Maybach S-Class",
+        "price": "230,150",
+        "fuelType": "Petrol",
+        "speed": "180 mph"
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://i.pinimg.com/474x/25/c1/83/25c18380cbb5ef4fe28a7b04e522fca3.jpg",
+        "carName": "2023 Rolls-Royce Phantom",
+        "price": "540,000",
+        "fuelType": "Petrol",
+        "speed": "170 mph"
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://i.pinimg.com/474x/aa/6b/f6/aa6bf62f558e61f94ba3f6f8615d12b4.jpg",
+        "carName": "2023 Bentley Mulsanne v12",
+        "price": "541,000",
+        "fuelType": "Petrol",
+        "speed": "190 mph"
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://i.pinimg.com/474x/47/fc/6c/47fc6c0b0daacc47794acd8051f9173b.jpg",
+        "carName": "2023 BMW XM (Emerald)",
+        "price": "168,395",
+        "fuelType": "Petrol",
+        "speed": "180 mph"
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://i.pinimg.com/474x/c3/66/ef/c366ef11e7d58d75c4a5c4c2f6bd5db3.jpg",
+        "carName": "Original 2023 Audi A8 SUV",
+        "price": "90,569",
+        "fuelType": "Hybrid",
+        "speed": "160 mph"
+    }
+]

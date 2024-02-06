@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "imageUrl": "https://i.pinimg.com/474x/e0/3a/dc/e03adcbaf9699315d59227ead970a34f.jpg",
+      "carName": "2014 Toyota Camry",
+      "price": "24,750",
+      "fuelType": "Petrol",
+      "speed": "130 mph"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://i.pinimg.com/474x/49/b6/4a/49b64a6fc149ef1fd5c875ce19040e0e.jpg",
+      "carName": "2017 Honda Accord v6 ",
+      "price": "29,710",
+      "fuelType": "Petrol",
+      "speed": "120 mph"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://i.pinimg.com/474x/b9/78/f2/b978f2f5a9ab4100110a4b9b90cf3b17.jpg",
+      "carName": "2020 Ford Fusion Coupe",
+      "price": "35,500",
+      "fuelType": "Petrol",
+      "speed": "125 mph"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://i.pinimg.com/474x/9a/ee/cb/9aeecb725e4ff7913be2e075a401673b.jpg",
+      "carName": "2020 Chevrolet Malibu",
+      "price": "32,000",
+      "fuelType": "Petrol",
+      "speed": "135 mph"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://i.pinimg.com/474x/48/5d/0f/485d0fde8a5fc817e1c96bef04acee71.jpg",
+      "carName": "2021 Nissan Altima v6",
+      "price": "33,000",
+      "fuelType": "Petrol",
+      "speed": "128 mph"
+    }
+  ]
+  

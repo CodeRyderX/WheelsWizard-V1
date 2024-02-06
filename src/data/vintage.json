@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "imageUrl": "https://i.pinimg.com/474x/3d/c3/20/3dc3200fbcfbaec529c4a6d316c62c6c.jpg",
+      "vintageCarName": "1928 Ford Model A",
+      "price": "26,700",
+      "fuelType": "Petrol",
+      "speed": "60 mph"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://i.pinimg.com/474x/f9/ec/50/f9ec507c636dfe47e78e7f03506f03e9.jpg",
+      "vintageCarName": "1957 Chevrolet Bel Air",
+      "price": "76,590",
+      "fuelType": "Petrol",
+      "speed": "70 mph"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://i.pinimg.com/474x/43/45/4e/43454e5b54ddb91408aa4f71bfe71b09.jpg",
+      "vintageCarName": "1969 Ford Mustang",
+      "price": "185,000",
+      "fuelType": "Petrol",
+      "speed": "75 mph"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://i.pinimg.com/474x/e1/59/aa/e159aaca5b4197b79581cdbfa5a69f5c.jpg",
+      "vintageCarName": "1930 Cadillac V-16",
+      "price": "350,000",
+      "fuelType": "Petrol",
+      "speed": "65 mph"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://i.pinimg.com/474x/0b/20/ab/0b20ab0bc16fddd0b2faf22d10e54f93.jpg",
+      "vintageCarName": "1948 Jaguar XK120",
+      "price": "105,670",
+      "fuelType": "Petrol",
+      "speed": "80 mph"
+    }
+  ]
+  

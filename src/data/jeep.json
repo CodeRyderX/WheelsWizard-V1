@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://i.pinimg.com/474x/c0/a4/f8/c0a4f8f02bf1f0ab20db3255d0ba2fad.jpg",
+        "carName": "2023 Jeep Grand Wagoneer",
+        "price": "99,595",
+        "fuelType": "Petrol",
+        "speed": "98 mph"
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://i.pinimg.com/474x/fc/f4/d0/fcf4d00265629b1eab685ab14f10314d.jpg",
+        "carName": "Jeep Wrangler Limited 2019...",
+        "price": "43,435",
+        "fuelType": "Petrol",
+        "speed": "75 mph"
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://i.pinimg.com/474x/73/5a/d8/735ad825e9bc5d8598dd2bbd4ebdb14d.jpg",
+        "carName": "2020 Jeep Gladiator High...",
+        "price": "60,815",
+        "fuelType": "Petrol",
+        "speed": "102 mph"
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://i.pinimg.com/474x/16/43/00/1643002b652384b8a1c5b8a4c6ec88a2.jpg",
+        "carName": "Jeep Cherokee Trackhawk",
+        "price": "105,000",
+        "fuelType": "Petrol",
+        "speed": "98 mph"
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://i.pinimg.com/474x/68/7c/d1/687cd1842a64107b49e3dab7addd403b.jpg",
+        "carName": "Jeep Compass Luxury v6",
+        "price": "34,339",
+        "fuelType": "Petrol",
+        "speed": "79 mph"
+    }
+]

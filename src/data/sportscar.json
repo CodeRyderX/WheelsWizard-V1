@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvdvGzNvMnd8jd9DakXrn_PTJW20xdTE682Q&usqp=CAU",
+        "carName": "2023 Bugatti Chiron",
+        "price": "2,953,410",
+        "fuelType": "Petrol",
+        "speed": "261 mph"
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://i.pinimg.com/474x/01/55/93/015593b02c8aa5a4429dc1d2436bec46.jpg",
+        "carName": "2023 Koenigsegg Regera",
+        "price": "3,277,636",
+        "fuelType": "Hybrid",
+        "speed": "250 mph"
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://i.pinimg.com/474x/01/cf/d3/01cfd33f6af8c401e977a0eafab13063.jpg",
+        "carName": "2023 Lamborghini Sian",
+        "price": "3,700,000",
+        "fuelType": "Hybrid",
+        "speed": "220 mph"
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://i.pinimg.com/474x/52/8e/ac/528eac821048ee2f5163057ec00856b0.jpg",
+        "carName": "2023 Bugatti Divo",
+        "price": "5,386,530",
+        "fuelType": "Petrol",
+        "speed": "236 mph"
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://i.pinimg.com/474x/99/4d/35/994d35d82dc0e520251b1eee68922c28.jpg",
+        "carName": "2023 Ferrari F8 Spider",
+        "price": "324,342",
+        "fuelType": "Electric",
+        "speed": "218 mph"
+    }
+]

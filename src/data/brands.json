@@ -1,0 +1,33 @@
+
+[
+      {
+        "id": "1",
+        "image_url": "https://i.pinimg.com/474x/3f/2f/54/3f2f54d5e30f6e2afa3872a64d742622.jpg",
+        "brand": "Toyota"
+      },
+      {
+        "id": "2",
+        "image_url": "https://i.pinimg.com/474x/b3/1e/54/b31e5446f541cb01b84dbcc95eaf0d7c.jpg",
+        "brand": "Mercedes-Benz"
+      },
+      {
+        "id": "3",
+        "image_url": "https://i.pinimg.com/474x/0c/d2/ed/0cd2ed43dc909a91ffd84ac53fb432b0.jpg",
+        "brand": "Lamborghini"
+      },
+      {
+        "id": "4",
+        "image_url": "https://i.pinimg.com/474x/c7/79/af/c779afbc8eb5891cf421072373b6db36.jpg",
+        "brand": "Chevrolet"
+      },
+      {
+        "id": "5",
+        "image_url": "https://i.pinimg.com/474x/d7/8d/66/d78d66021fae2300052c1c58be1b2d54.jpg",
+        "brand": "Ferrari"
+      },
+      {
+        "id": "6",
+        "image_url": "https://i.pinimg.com/474x/13/6c/c6/136cc6856f5666bbe48a32197c19b098.jpg",
+        "brand": "Tesla"
+      }
+]
